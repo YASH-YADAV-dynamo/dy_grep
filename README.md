@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="img.png" />
+<p align = "center">
+  
+![Screenshot from 2024-04-21 05-09-52](https://github.com/YASH-YADAV-dynamo/dy_grep/assets/147921735/9f1399e2-8dbc-4b80-98f1-4612db36cfa9)
+
 </p>
 
-<h1>
-  dy_grep
+  # dy_grep
 </h1>
 A custom made CLI to search tool with a cornerstone utility in the Unix world for efficiently searching text patterns in files. It leverages regular expressions for precise matching, scans files line-by-line, offers control over output, and its value, powerful tool for professionals working with text data. 
 
