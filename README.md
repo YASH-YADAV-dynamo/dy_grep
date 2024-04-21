@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img.png" />
+</p>
+
 <h1>
   dy_grep
 </h1>
@@ -125,5 +129,5 @@ Now to make it work, <br>
 Note:- poem.txt is just a sample text file name , and remember to keep files in same directory
 
 ```
-cargo run (pattern you want to separate" (name of text file where you want to apply dy_grep).txt > output.txt
+cargo run (pattern you want to separate) (name of text file where you want to apply dy_grep).txt > output.txt
 ```
